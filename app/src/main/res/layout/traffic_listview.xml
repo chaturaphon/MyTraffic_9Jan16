@@ -21,7 +21,7 @@
             android:layout_height="wrap_content"
             android:text="New Text"
             android:id="@+id/txtListTitle"
-            android:textSize="@dimen/h1"
+            android:textSize="@dimen/h3"
             android:textStyle="bold"
             android:textColor="@color/text" />
 
